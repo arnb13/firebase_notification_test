@@ -1,6 +1,6 @@
 # firebase_notification_test
 
-test
+Flutter notification test demo project using Firebase
 
 ## Getting Started
 
